@@ -58,6 +58,6 @@ If you want, I can also:
 
 Auto-generate Terraform boilerplate for each folder  
 Write full explanations for each task  
-Generate a prettier README with emojis and table of contents  
+Generate a prettier README with emojis and table of contents.  
 
 
